@@ -1,5 +1,6 @@
 package com.abnamro.apps.referenceandroid
 
+
 import androidx.fragment.app.Fragment
 import android.os.Bundle
 import android.view.LayoutInflater
